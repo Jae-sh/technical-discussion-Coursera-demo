@@ -21,5 +21,5 @@ This is an example of my [code](https://gist.github.com/Jae-sh/60a29c1f130408f0b
 This is an example of my [notebook](https://colab.research.google.com/drive/1nhqT0yxMG-fA_iMkQgN2eZRd_iWtb3w0?usp=sharing)
 
 
-###Image
+### Image
 ![image](https://github.com/Jae-sh/technical-discussion-Coursera-demo/assets/159880026/fe0a6a05-6af0-410a-8206-de980ba48f84)
