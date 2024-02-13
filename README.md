@@ -18,4 +18,4 @@ This is an example of my [code](https://gist.github.com/Jae-sh/60a29c1f130408f0b
 
 
 ### Colab Notebook
-This is an example of my [notebook]()
+This is an example of my [notebook](https://colab.research.google.com/drive/1nhqT0yxMG-fA_iMkQgN2eZRd_iWtb3w0?usp=sharing)
