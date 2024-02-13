@@ -11,3 +11,7 @@ This is a demo repo for sharing ideas around communication
 **2**
 
 **3**
+
+
+###Gist Example
+This is an example of my [code] (https://gist.github.com/Jae-sh/60a29c1f130408f0bf5c2d867effae80) 
